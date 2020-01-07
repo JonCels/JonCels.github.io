@@ -1,0 +1,12 @@
+body, html {
+    background-color: lavenderblush;
+}
+
+.about_me {
+    color: black;
+}
+
+.main {
+    padding-left: 250px;
+    padding-top: 20px;
+}
